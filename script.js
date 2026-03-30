@@ -63,8 +63,8 @@ if (num1 === num2 && num2 === num3){
 
     //Debe imprimir los números por consola o por el DOM ordenados de mayor a menor, y de menor a mayor.
     //Se muestra de mayor a menor
-    console.log("Se muestran los numero en orden de mayor a menor -> ", mayor, medio, menor);
+    console.log("Se muestran los numeros en orden de mayor a menor -> ", mayor, medio, menor);
     //Se muestra de menor a mayor
-    console.log("Se muestran los numero en orden de menor a mayor -> ", menor, medio, mayor);
+    console.log("Se muestran los numeros en orden de menor a mayor -> ", menor, medio, mayor);
 
 }
