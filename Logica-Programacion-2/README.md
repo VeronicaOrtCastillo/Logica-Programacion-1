@@ -11,28 +11,26 @@ Crear un programa en Javascript que realice lo siguiente:
 ## Pruebas
 Prueba tu programa con las siguientes entradas para asegurarte que funcione correctamente:
 1. Entrada: 45
+
 **Salida:**
 - Grados Kelvin: 318.15
 - Grados Fahrenheit: 113
 2. Entrada: 14
+
 **Salida:**
 - Grados Kelvin: 287.15
 - Grados Fahrenheit: 57.2
 
-Pruébalo con las combinaciones de números que se te ocurran.
----
-
 ## Al final de tu práctica
 - Tienes que subir el ejercicio a tu repositorio de GitHub.
 - Colócalo en un repositorio llamado “logica-programacion-2”
-
 ---
 ## Sugerencias:
 **●** Si no conoces las fórmulas para las conversiones puedes buscarlas en Google.
 
-**●**Recuerda convertir a number el valor solicitado por prompt o por un input y verificar que sea un número para evitar
+**●** Recuerda convertir a number el valor solicitado por prompt o por un input y verificar que sea un número para evitar
 errores en tu programa.
 
-**●**Recuerda que para mostrar mensajes por consola o por el DOM, debes crear un archivo HTML y enlazar tu script.
+**●** Recuerda que para mostrar mensajes por consola o por el DOM, debes crear un archivo HTML y enlazar tu script.
 
-**●**Para ayudarte puedes desarrollar un algoritmo y el pseudocódigo.
+**●** Para ayudarte puedes desarrollar un algoritmo y el pseudocódigo.
