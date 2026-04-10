@@ -13,3 +13,15 @@ function convertirTemperatura(celsius){
     //retornamos los resultados
     return "Kelvin: " + kelvin.toFixed(2) + " | Fahrenheit: " + fahrenheit.toFixed(2);
 }
+
+function mostrarResultado(){
+    //obtiene el calor del input
+    let input = document.getElementById("celsius").value;
+    //lo convierte a numero
+    let celsius = Number(input);
+    //llama a la funcion logica
+    let resultadoTexto = convertirTemperatura(celsius);
+    //se muestra el resultado
+    document.getElementById("resultado").innerText = resultadoTexto;
+
+}
