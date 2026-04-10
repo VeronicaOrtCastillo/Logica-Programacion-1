@@ -1,0 +1,13 @@
+body {
+        text-align: center; /* centra texto */
+    }
+
+input,button {
+    padding: 8px;
+    margin: 5px;
+    }
+
+#resultado {
+    margin-top: 15px;
+    font-weight: bold;
+}
