@@ -1,4 +1,5 @@
-
+## EJERCICIOS DE LOGICA DE PROGRAMACIÓN
+---
 ## Objetivos:
 
 1. Seguir una serie lógica de pasos para resolver problemas específicos.
